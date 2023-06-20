@@ -7,12 +7,16 @@
 实时人脸动作捕捉和人脸渲染https://xpressioncamera.com/
 捕捉真人动作并自动渲染为CG动画https://wonderdynamics.com/
 一个免费的动捕软件，用于创建3D动画https://movmi.co/
+
 ------
 # 声音生成视频
 
 通过音乐生成AI视频，非常朋克的画风    https://www.plazmapunk.com/
 通过语音操纵AI生成视频    https://typpo.app/
 为音乐作品生成视频    https://rotorvideos.com/
+
+--------
+
 # 图片生成视频
 
 上传图片并将其转换为3D动画    https://convert.leiapix.com/
